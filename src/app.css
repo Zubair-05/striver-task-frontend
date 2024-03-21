@@ -1,0 +1,14 @@
+.scrollable-code {
+    /* Enable horizontal scrolling */
+    overflow-x: auto;
+  
+    /* Improve readability with line wrapping */
+    white-space: pre-wrap;
+  
+    /* Optional: Set a background color for better distinction */
+    background-color: #f5f5f5;
+  
+    /* Optional: Set padding for spacing within the scrollable area */
+    padding: 5px;
+  }
+  
